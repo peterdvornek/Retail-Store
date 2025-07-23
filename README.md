@@ -39,6 +39,7 @@ For this project, we focus exclusively on **Store 1**.
 ### 1. Total Sales by Category
 - In both **2022 and 2023**, no single category dominated sales.
 - Each category contributed roughly **20% of total units sold**, suggesting balanced demand.
+- ![Total Sales by Category](https://github.com/peterdvornek/Retail-Store/blob/main/Retail%20Store%20Case%20Study/Category%20Units%20Sold.png)
 
 ### 2. Monthly Sales by Category
 - In **2022**, categories like **Electronics, Clothing, and Furniture** showed greater volatility in monthly sales.
