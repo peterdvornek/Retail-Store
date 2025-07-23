@@ -43,6 +43,7 @@ For this project, we focus exclusively on **Store 1**.
 ### 2. Monthly Sales by Category
 - In **2022**, categories like **Electronics, Clothing, and Furniture** showed greater volatility in monthly sales.
 - In **2023**, fluctuations were less extreme, but the same categories continued to exhibit larger swings.
+- ![Monthly Sales by Category](https://github.com/peterdvornek/Retail-Store/blob/main/Retail%20Store%20Case%20Study/Monthly%20Sales%20by%20Category.png)
 
 ### 3. Growth Ratio
 - **Toy and Grocery** categories experienced a decline in unit sales across both years.
