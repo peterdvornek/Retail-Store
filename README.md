@@ -47,6 +47,6 @@ For this project, we focus exclusively on **Store 1**.
 ### 3. Growth Ratio
 - **Toy and Grocery** categories experienced a decline in unit sales across both years.
 - These trends suggest a need to **reassess inventory levels** and investigate potential causes (e.g., market shifts, pricing, consumer behavior).
-- ![Growth Rate Table]
+- ![Growth Rate Table](https://github.com/peterdvornek/Retail-Store/blob/main/Retail%20Store%20Case%20Study/Growth%20Rate.png)
 
 ---
